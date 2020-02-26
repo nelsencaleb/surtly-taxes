@@ -1,0 +1,22 @@
+body {
+	background-color: #gray;
+}
+
+h1 {
+	font-size: 30px;
+	color: red;
+}
+h2 {
+	font-size: 18px;
+	color: purple;
+}
+h3 {
+	font-size: 16px;
+	color: green;
+}
+.big {
+	font-size: 60px;
+}
+.uppercase {
+	text-transform: uppercase;
+}
