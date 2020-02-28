@@ -1,0 +1,96 @@
+body {
+	font-family: helvetica; /* Body font */
+	font-size: 20px;
+	font-weight: 150; /* Makes the body font thin */
+	margin: 0;
+	padding: 0
+}
+header {
+	background-color: #905bd6;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 25px;
+	margin-top: 0px;
+}
+/*header.container {
+	max-width: 800px;
+}*/
+h1, h2 {
+	font-family: 'Open Sans Condensed';
+}
+header h1 {
+	color: white;
+	font-size: 50px;
+	
+}
+header img {
+	border-radius: 150px;
+	width: 250px;
+	border: 8px solid #fff;
+}
+h1 {
+	font-size: 35px;
+	color: red;
+}
+h1.bgg { /* surtly tax text bg color */
+	font-size: 75px;
+	margin: 0px 0px;
+	padding-bottom: 20px;
+}
+h2 {
+	background-color: #d09cd9;
+	font-size: 35px;
+	color: purple;
+	padding: 15px
+}
+/*h3 {
+	font-size: 35px;
+	color: green;
+}*/
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+a {
+	color: #e70c19;
+}
+a:hover {
+	/* when you hover on any a element change the color */
+	color: white;
+	background-color: lightgray;
+}
+footer {
+	background-color: #905bd6;
+	text-align: left;
+	color: white;
+	padding: 30px;
+}
+section {
+	margin-top: -5px;
+}
+p footer {
+	margin: 0;
+}
+p.caption {
+	color: grey;
+	font-style: italic;
+	margin-top: 0;
+}
+section.bg {
+	background-color: #f5f6f7;
+}
+.nav {
+	margin-bottom: 0px;
+	padding-bottom: : 0px;
+}
+.big {
+	font-size: 60px;
+}
+.uppercase {
+	text-transform: uppercase;
+}
+.main-nav {
+	background-color: #b19cd9;
+	font-size: 16px;
+}
